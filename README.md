@@ -9,7 +9,6 @@ Skills: PYTHON / FLASK / HTML / MYSQL/ FIGMA
 
  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitMahajan)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshitMahajan&show_icons=true)  
 
