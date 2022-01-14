@@ -1,9 +1,8 @@
 ### Hi there 👋,  My name is Harshit
-####  I am an Engineering Student 
 I really enjoy working and learning UI and UX, as well as working on Python. 
  
 
-Skills: PYTHON / FLASK / HTML / MYSQL/ FIGMA
+####  Skills: PYTHON / FLASK / HTML / MYSQL/ FIGMA
 
 
 
