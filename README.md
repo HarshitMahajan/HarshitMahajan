@@ -16,6 +16,6 @@ I'm Harshit Mahajan, an enthusiastic learner exploring new fields and trying to 
 
 ## 🏆 GitHub Stats
 ![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshitMahajan&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitMahajan&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitMahajan&layout=compact&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
