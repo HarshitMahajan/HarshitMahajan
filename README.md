@@ -2,9 +2,8 @@
 
 I'm a 21-year-old developer based in India, and I'm passionate about crafting digital experiences. 
 
-- Check out my [website](https://www.harshitmahajan.super.site) to learn more about me.
-- 
-- Stay updated with my journey on [Instagram](https://www.instagram.com/Harshitmaj_), [LinkedIn](https://www.linkedin.com/in/hm1104) and [YouTube](https://www.youtube.com/harshitmahajan11)
+- Check out my [website](https://www.harshitmahajan.tech) to learn more about me.
+- Stay updated with my journey on [LinkedIn](https://www.linkedin.com/in/hm1104)
 
 
 ## 📦 Toolbox
@@ -24,4 +23,4 @@ I'm a 21-year-old developer based in India, and I'm passionate about crafting di
 
 ## 📫 Contact
 
-For a quick response, DM me on [Instagram](https://www.instagram.com/Harshitmaj_/) or [LinkedIn](https://www.linkedin.com/in/hm1104/). 
+For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/hm1104/). 
