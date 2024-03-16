@@ -16,11 +16,6 @@ I'm a 21-year-old developer based in India, and I'm passionate about crafting di
 
 **Others:** `Notion` `Trello` `Power Point` `Jira`
  
-## ✨ Fun Facts 
-
-- Demon Slayer is my favorite anime.
-
-
 ## 📫 Contact
 
 For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/hm1104/). 
